@@ -1,0 +1,15 @@
+div {
+	width: 100px;
+	height: 100px;
+	background-color: gray;
+	border: black 2px solid;
+	display: block;
+	margin: 8px;
+}
+.contenedor {
+	width: 370px;
+	height: 120px;
+}
+.vecinos {
+	display: inline-block;
+}
